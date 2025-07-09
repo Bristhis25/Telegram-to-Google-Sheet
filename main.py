@@ -25,9 +25,9 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 
 # === CONFIGURATION ===
 
-TELEGRAM_TOKEN = '7280295072:AAEfcjO8UPCpUimFxP6Dde2yaNo1_LrbBjs'
-CHANNEL_ID = -1002609793699
-GOOGLE_SHEET_NAME = 'emails_telegram'
+TELEGRAM_TOKEN = 'token telegram à recup sur botfather'
+CHANNEL_ID = id du canal
+GOOGLE_SHEET_NAME = 'nom de la feuille de calcul'
 
 # === GOOGLE SHEETS SETUP ===
 
